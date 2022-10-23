@@ -1,9 +1,8 @@
-import './App.css';
-
+import './App.less'
 function App() {
   return (
     <div className="App">
-      app
+      盒子
     </div>
   );
 }
